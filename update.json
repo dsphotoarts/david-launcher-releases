@@ -1,6 +1,7 @@
 {
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "apkUrl": "",
-  "notes": "Saluran pembaruan sedang disiapkan."
+  "versionCode": 24,
+  "versionName": "2.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
+  "sha256": "05fe23eee267e73a5c2dc85b66d737b3549023822fd2478b946180db77ac55f8",
+  "notes": "XList Command Center dan pembaruan otomatis langsung dari launcher."
 }
