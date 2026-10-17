@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "2.1.0",
+  "versionCode": 26,
+  "versionName": "2.1.1",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "933af75c565316220f20cab6c09ed9f0645c8be5476aced402e2f1c291de7cfa",
-  "notes": "Pencarian terpadu XList, verifikasi keamanan APK, dan jalur build otomatis yang lebih andal."
+  "sha256": "5a02ed30ef0051343c453540158d8dd47efccec9ce15d24337b134b732d37821",
+  "notes": "Installer otomatis diperbaiki untuk HyperOS dan tersedia pilihan menghapus APK setelah update berhasil."
 }
