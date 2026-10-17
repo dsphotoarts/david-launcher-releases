@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "2.2.0",
+  "versionCode": 28,
+  "versionName": "2.2.1",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "9b805737a458e559f3a54816e6827b444511eb8cfa09798ac44980362b34b28f",
-  "notes": "XList Daily Command: aksi agenda Selesai, Tunda, Navigasi dan WhatsApp; quick actions tekan lama XList; ringkasan kerja dan status sinkronisasi; serta favorit pintar yang tetap dapat diatur manual."
+  "sha256": "568035220c376e9859ef5536495213953be188e1bc4c2131fa50fa104116bbae",
+  "notes": "Pencarian dan perintah XList memprioritaskan APK terpasang sebelum versi web. Kata pencarian diteruskan ke APK. Nomor versi Pengaturan, About, dan metadata build kini otomatis mengikuti versi aplikasi."
 }
