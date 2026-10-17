@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "2.0.1",
+  "versionCode": 25,
+  "versionName": "2.1.0",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "05fe23eee267e73a5c2dc85b66d737b3549023822fd2478b946180db77ac55f8",
-  "notes": "XList Command Center dan pembaruan otomatis langsung dari launcher."
+  "sha256": "933af75c565316220f20cab6c09ed9f0645c8be5476aced402e2f1c291de7cfa",
+  "notes": "Pencarian terpadu XList, verifikasi keamanan APK, dan jalur build otomatis yang lebih andal."
 }
