@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "2.1.1",
+  "versionCode": 27,
+  "versionName": "2.2.0",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "5a02ed30ef0051343c453540158d8dd47efccec9ce15d24337b134b732d37821",
-  "notes": "Installer otomatis diperbaiki untuk HyperOS dan tersedia pilihan menghapus APK setelah update berhasil."
+  "sha256": "9b805737a458e559f3a54816e6827b444511eb8cfa09798ac44980362b34b28f",
+  "notes": "XList Daily Command: aksi agenda Selesai, Tunda, Navigasi dan WhatsApp; quick actions tekan lama XList; ringkasan kerja dan status sinkronisasi; serta favorit pintar yang tetap dapat diatur manual."
 }
