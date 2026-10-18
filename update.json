@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "2.2.1",
+  "versionCode": 29,
+  "versionName": "2.2.2",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "568035220c376e9859ef5536495213953be188e1bc4c2131fa50fa104116bbae",
-  "notes": "Pencarian dan perintah XList memprioritaskan APK terpasang sebelum versi web. Kata pencarian diteruskan ke APK. Nomor versi Pengaturan, About, dan metadata build kini otomatis mengikuti versi aplikasi."
+  "sha256": "b6e43b9af415e04e29a1288778bc517b0fe0c07018324700d52360f20238942f",
+  "notes": "Reaksi visual glass/ripple saat disentuh, animasi tombol Settings, indikator tahan Settings lebih besar dan jauh dari jari dengan persentase; tahan dibatalkan saat bergeser. Quick Actions hanya untuk XList AI."
 }
