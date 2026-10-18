@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2.2.2",
+  "versionCode": 30,
+  "versionName": "2.2.3",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "b6e43b9af415e04e29a1288778bc517b0fe0c07018324700d52360f20238942f",
-  "notes": "Reaksi visual glass/ripple saat disentuh, animasi tombol Settings, indikator tahan Settings lebih besar dan jauh dari jari dengan persentase; tahan dibatalkan saat bergeser. Quick Actions hanya untuk XList AI."
+  "sha256": "25137c7520291f64a5336990b495a1140f7de35937da7c129f8fb9757be050bb",
+  "notes": "Pengingat agenda bersuara bertahap: 6/3/2/1 bulan, 3/2/1 jam, serta custom menit/jam/hari/minggu/bulan. Beberapa pengingat sekaligus; pengaturan suara dan izin alarm tepat waktu; backup pilihan pengingat. Jadwal alarm terpisah dari batas tampilan Home dan mengikuti agenda yang diterima dari XList."
 }
