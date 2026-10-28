@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "2.3.0",
+  "versionCode": 32,
+  "versionName": "2.3.1",
   "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "705cee00612e2389b6f5b1063ee7efbda88a4a5cb884426fa1ed56e587a16b29",
-  "notes": "XList Command dengan tampilan minimalis baru, shortcut APK XList v320, dan pembacaan snapshot agenda yang lebih tepat."
+  "sha256": "68117f13c99dda6f47d6496492edd678a27fbdffd1d825bcff9bf84ab4295781",
+  "notes": "Perbaikan pengingat agenda: pertahankan jadwal saat Home dibuka, gunakan alarm sistem presisi, toleransi keterlambatan singkat, serta tes AlarmManager 30 detik dan status diagnostik."
 }
