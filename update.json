@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "2.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher.apk",
-  "sha256": "68117f13c99dda6f47d6496492edd678a27fbdffd1d825bcff9bf84ab4295781",
-  "notes": "Perbaikan pengingat agenda: pertahankan jadwal saat Home dibuka, gunakan alarm sistem presisi, toleransi keterlambatan singkat, serta tes AlarmManager 30 detik dan status diagnostik."
+  "versionCode": 34,
+  "versionName": "2.3.3",
+  "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher-v2.3.3-Sarah-AI-Christmas.apk",
+  "sha256": "c9d9161083dc679e8353d873977d0b1aa16f94cab195f5e9bef6cce09f385459",
+  "notes": "Wallpaper Sarah AI Christmas untuk portrait dan landscape, serta menu Link XList & Bagikan ke Tim di Pengaturan. Wallpaper Natal tampil otomatis jika memakai wallpaper bawaan."
 }
