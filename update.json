@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "2.3.3",
-  "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher-v2.3.3-Sarah-AI-Christmas.apk",
-  "sha256": "c9d9161083dc679e8353d873977d0b1aa16f94cab195f5e9bef6cce09f385459",
-  "notes": "Wallpaper Sarah AI Christmas untuk portrait dan landscape, serta menu Link XList & Bagikan ke Tim di Pengaturan. Wallpaper Natal tampil otomatis jika memakai wallpaper bawaan."
+  "versionCode": 35,
+  "versionName": "2.3.4",
+  "apkUrl": "https://raw.githubusercontent.com/dsphotoarts/david-launcher-releases/main/David-Launcher-v2.3.4-Favorite-Folders.apk",
+  "sha256": "3f252c1556d88e2a605faa9faf4a1e7e2296771e39f361e102183952fdd9aec0",
+  "notes": "Folder Favorit di Home. Tekan lama ikon aplikasi untuk memindahkannya ke folder. Ketuk folder untuk membuka, atau tekan lama folder untuk mengatur isi, mengganti nama, dan menghapusnya."
 }
